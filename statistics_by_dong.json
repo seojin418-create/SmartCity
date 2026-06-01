@@ -1,0 +1,1024 @@
+{
+  "전체": [
+    {
+      "Category": "단독주택",
+      "Area": 378135.9,
+      "Parcels": 7253,
+      "Ratio": 8.8,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 325793.5,
+      "Parcels": 199,
+      "Ratio": 7.6,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 35578.5,
+      "Parcels": 133,
+      "Ratio": 0.8,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "운동시설",
+      "Area": 72407.7,
+      "Parcels": 20,
+      "Ratio": 1.7,
+      "Color": "#b39ddb"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 184659.1,
+      "Parcels": 347,
+      "Ratio": 4.3,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "숙박시설",
+      "Area": 23858.7,
+      "Parcels": 88,
+      "Ratio": 0.6,
+      "Color": "#f50057"
+    },
+    {
+      "Category": "위락시설",
+      "Area": 37257.6,
+      "Parcels": 5,
+      "Ratio": 0.9,
+      "Color": "#84ffff"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 2592763.5,
+      "Parcels": 8093,
+      "Ratio": 60.5,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 24287.7,
+      "Parcels": 98,
+      "Ratio": 0.6,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 223011.0,
+      "Parcels": 2076,
+      "Ratio": 5.2,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 350640.3,
+      "Parcels": 2548,
+      "Ratio": 8.2,
+      "Color": "#ffc400"
+    },
+    {
+      "Category": "문화및집회시설",
+      "Area": 36554.0,
+      "Parcels": 19,
+      "Ratio": 0.9,
+      "Color": "#8c9eff"
+    }
+  ],
+  "서울특별시 송파구 가락동": [
+    {
+      "Category": "단독주택",
+      "Area": 20191.1,
+      "Parcels": 472,
+      "Ratio": 3.7,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 27814.4,
+      "Parcels": 25,
+      "Ratio": 5.1,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 14818.4,
+      "Parcels": 12,
+      "Ratio": 2.7,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "운동시설",
+      "Area": 0.0,
+      "Parcels": 1,
+      "Ratio": 0.0,
+      "Color": "#b39ddb"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 31837.9,
+      "Parcels": 60,
+      "Ratio": 5.8,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "숙박시설",
+      "Area": 753.1,
+      "Parcels": 2,
+      "Ratio": 0.1,
+      "Color": "#f50057"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 361924.1,
+      "Parcels": 739,
+      "Ratio": 66.1,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 2806.1,
+      "Parcels": 16,
+      "Ratio": 0.5,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 30519.4,
+      "Parcels": 280,
+      "Ratio": 5.6,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 57137.4,
+      "Parcels": 395,
+      "Ratio": 10.4,
+      "Color": "#ffc400"
+    }
+  ],
+  "서울특별시 송파구 마천동": [
+    {
+      "Category": "단독주택",
+      "Area": 53134.1,
+      "Parcels": 1658,
+      "Ratio": 5.4,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 5532.1,
+      "Parcels": 6,
+      "Ratio": 0.6,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 2597.3,
+      "Parcels": 22,
+      "Ratio": 0.3,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "운동시설",
+      "Area": 97.5,
+      "Parcels": 1,
+      "Ratio": 0.0,
+      "Color": "#b39ddb"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 247.8,
+      "Parcels": 3,
+      "Ratio": 0.0,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "숙박시설",
+      "Area": 0.0,
+      "Parcels": 1,
+      "Ratio": 0.0,
+      "Color": "#f50057"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 897827.4,
+      "Parcels": 633,
+      "Ratio": 90.7,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 1641.0,
+      "Parcels": 8,
+      "Ratio": 0.2,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 15643.6,
+      "Parcels": 252,
+      "Ratio": 1.6,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 12770.0,
+      "Parcels": 135,
+      "Ratio": 1.3,
+      "Color": "#ffc400"
+    }
+  ],
+  "서울특별시 송파구 삼전동": [
+    {
+      "Category": "단독주택",
+      "Area": 45002.9,
+      "Parcels": 439,
+      "Ratio": 18.0,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 12503.8,
+      "Parcels": 7,
+      "Ratio": 5.0,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 2789.0,
+      "Parcels": 15,
+      "Ratio": 1.1,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "운동시설",
+      "Area": 365.0,
+      "Parcels": 1,
+      "Ratio": 0.1,
+      "Color": "#b39ddb"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 7882.9,
+      "Parcels": 20,
+      "Ratio": 3.1,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "숙박시설",
+      "Area": 747.8,
+      "Parcels": 6,
+      "Ratio": 0.3,
+      "Color": "#f50057"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 140912.7,
+      "Parcels": 1101,
+      "Ratio": 56.3,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 894.1,
+      "Parcels": 5,
+      "Ratio": 0.4,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 14369.0,
+      "Parcels": 106,
+      "Ratio": 5.7,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 24742.0,
+      "Parcels": 171,
+      "Ratio": 9.9,
+      "Color": "#ffc400"
+    },
+    {
+      "Category": "문화및집회시설",
+      "Area": 223.3,
+      "Parcels": 1,
+      "Ratio": 0.1,
+      "Color": "#8c9eff"
+    }
+  ],
+  "서울특별시 송파구 석촌동": [
+    {
+      "Category": "단독주택",
+      "Area": 37270.8,
+      "Parcels": 454,
+      "Ratio": 14.6,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 5806.4,
+      "Parcels": 9,
+      "Ratio": 2.3,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 1760.5,
+      "Parcels": 13,
+      "Ratio": 0.7,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "운동시설",
+      "Area": 622.9,
+      "Parcels": 2,
+      "Ratio": 0.2,
+      "Color": "#b39ddb"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 12288.3,
+      "Parcels": 33,
+      "Ratio": 4.8,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "숙박시설",
+      "Area": 1797.9,
+      "Parcels": 4,
+      "Ratio": 0.7,
+      "Color": "#f50057"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 147349.1,
+      "Parcels": 1096,
+      "Ratio": 57.6,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 679.9,
+      "Parcels": 5,
+      "Ratio": 0.3,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 17095.0,
+      "Parcels": 181,
+      "Ratio": 6.7,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 30706.5,
+      "Parcels": 248,
+      "Ratio": 12.0,
+      "Color": "#ffc400"
+    },
+    {
+      "Category": "문화및집회시설",
+      "Area": 408.0,
+      "Parcels": 1,
+      "Ratio": 0.2,
+      "Color": "#8c9eff"
+    }
+  ],
+  "서울특별시 송파구 풍납동": [
+    {
+      "Category": "단독주택",
+      "Area": 62326.5,
+      "Parcels": 1431,
+      "Ratio": 19.4,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 31341.2,
+      "Parcels": 16,
+      "Ratio": 9.7,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 1748.8,
+      "Parcels": 15,
+      "Ratio": 0.5,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "운동시설",
+      "Area": 595.6,
+      "Parcels": 1,
+      "Ratio": 0.2,
+      "Color": "#b39ddb"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 2269.0,
+      "Parcels": 8,
+      "Ratio": 0.7,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 185650.0,
+      "Parcels": 275,
+      "Ratio": 57.6,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 1106.5,
+      "Parcels": 5,
+      "Ratio": 0.3,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 21021.7,
+      "Parcels": 182,
+      "Ratio": 6.5,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 14842.0,
+      "Parcels": 125,
+      "Ratio": 4.6,
+      "Color": "#ffc400"
+    },
+    {
+      "Category": "문화및집회시설",
+      "Area": 1158.0,
+      "Parcels": 1,
+      "Ratio": 0.4,
+      "Color": "#8c9eff"
+    }
+  ],
+  "서울특별시 송파구 방이동": [
+    {
+      "Category": "단독주택",
+      "Area": 25686.7,
+      "Parcels": 399,
+      "Ratio": 6.0,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 77961.2,
+      "Parcels": 44,
+      "Ratio": 18.1,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 276.3,
+      "Parcels": 6,
+      "Ratio": 0.1,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "운동시설",
+      "Area": 19844.1,
+      "Parcels": 5,
+      "Ratio": 4.6,
+      "Color": "#b39ddb"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 31990.6,
+      "Parcels": 73,
+      "Ratio": 7.4,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "숙박시설",
+      "Area": 8770.6,
+      "Parcels": 47,
+      "Ratio": 2.0,
+      "Color": "#f50057"
+    },
+    {
+      "Category": "위락시설",
+      "Area": 545.9,
+      "Parcels": 4,
+      "Ratio": 0.1,
+      "Color": "#84ffff"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 151405.9,
+      "Parcels": 1015,
+      "Ratio": 35.2,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 2402.6,
+      "Parcels": 12,
+      "Ratio": 0.6,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 24614.8,
+      "Parcels": 211,
+      "Ratio": 5.7,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 59632.7,
+      "Parcels": 365,
+      "Ratio": 13.9,
+      "Color": "#ffc400"
+    },
+    {
+      "Category": "문화및집회시설",
+      "Area": 27363.6,
+      "Parcels": 4,
+      "Ratio": 6.4,
+      "Color": "#8c9eff"
+    }
+  ],
+  "서울특별시 송파구 잠실동": [
+    {
+      "Category": "단독주택",
+      "Area": 45843.7,
+      "Parcels": 532,
+      "Ratio": 9.4,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 53199.3,
+      "Parcels": 28,
+      "Ratio": 10.9,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 1451.8,
+      "Parcels": 10,
+      "Ratio": 0.3,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "운동시설",
+      "Area": 44004.2,
+      "Parcels": 4,
+      "Ratio": 9.0,
+      "Color": "#b39ddb"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 12858.2,
+      "Parcels": 37,
+      "Ratio": 2.6,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "숙박시설",
+      "Area": 11547.7,
+      "Parcels": 26,
+      "Ratio": 2.4,
+      "Color": "#f50057"
+    },
+    {
+      "Category": "위락시설",
+      "Area": 36711.7,
+      "Parcels": 1,
+      "Ratio": 7.5,
+      "Color": "#84ffff"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 207917.4,
+      "Parcels": 782,
+      "Ratio": 42.8,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 414.1,
+      "Parcels": 5,
+      "Ratio": 0.1,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 25084.0,
+      "Parcels": 180,
+      "Ratio": 5.2,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 43080.3,
+      "Parcels": 284,
+      "Ratio": 8.9,
+      "Color": "#ffc400"
+    },
+    {
+      "Category": "문화및집회시설",
+      "Area": 4223.8,
+      "Parcels": 4,
+      "Ratio": 0.9,
+      "Color": "#8c9eff"
+    }
+  ],
+  "서울특별시 송파구 오금동": [
+    {
+      "Category": "단독주택",
+      "Area": 17275.6,
+      "Parcels": 329,
+      "Ratio": 9.8,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 26498.9,
+      "Parcels": 18,
+      "Ratio": 15.1,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 2042.7,
+      "Parcels": 12,
+      "Ratio": 1.2,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "운동시설",
+      "Area": 2317.3,
+      "Parcels": 2,
+      "Ratio": 1.3,
+      "Color": "#b39ddb"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 9589.8,
+      "Parcels": 23,
+      "Ratio": 5.5,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 73057.0,
+      "Parcels": 521,
+      "Ratio": 41.6,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 1912.4,
+      "Parcels": 13,
+      "Ratio": 1.1,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 14295.6,
+      "Parcels": 158,
+      "Ratio": 8.1,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 27789.5,
+      "Parcels": 211,
+      "Ratio": 15.8,
+      "Color": "#ffc400"
+    },
+    {
+      "Category": "문화및집회시설",
+      "Area": 1011.8,
+      "Parcels": 3,
+      "Ratio": 0.6,
+      "Color": "#8c9eff"
+    }
+  ],
+  "서울특별시 송파구 거여동": [
+    {
+      "Category": "단독주택",
+      "Area": 23470.6,
+      "Parcels": 656,
+      "Ratio": 15.8,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 9937.4,
+      "Parcels": 9,
+      "Ratio": 6.7,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 2894.2,
+      "Parcels": 9,
+      "Ratio": 1.9,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "운동시설",
+      "Area": 4561.1,
+      "Parcels": 3,
+      "Ratio": 3.1,
+      "Color": "#b39ddb"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 4463.1,
+      "Parcels": 11,
+      "Ratio": 3.0,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "숙박시설",
+      "Area": 118.1,
+      "Parcels": 1,
+      "Ratio": 0.1,
+      "Color": "#f50057"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 73949.5,
+      "Parcels": 261,
+      "Ratio": 49.8,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 1322.4,
+      "Parcels": 5,
+      "Ratio": 0.9,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 10565.7,
+      "Parcels": 117,
+      "Ratio": 7.1,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 16907.4,
+      "Parcels": 125,
+      "Ratio": 11.4,
+      "Color": "#ffc400"
+    },
+    {
+      "Category": "문화및집회시설",
+      "Area": 289.2,
+      "Parcels": 1,
+      "Ratio": 0.2,
+      "Color": "#8c9eff"
+    }
+  ],
+  "서울특별시 송파구 송파동": [
+    {
+      "Category": "단독주택",
+      "Area": 31947.7,
+      "Parcels": 462,
+      "Ratio": 12.6,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 18469.9,
+      "Parcels": 14,
+      "Ratio": 7.3,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 615.8,
+      "Parcels": 5,
+      "Ratio": 0.2,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 9458.3,
+      "Parcels": 28,
+      "Ratio": 3.7,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 144596.2,
+      "Parcels": 956,
+      "Ratio": 57.2,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 1016.5,
+      "Parcels": 3,
+      "Ratio": 0.4,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 17907.7,
+      "Parcels": 183,
+      "Ratio": 7.1,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 28639.1,
+      "Parcels": 244,
+      "Ratio": 11.3,
+      "Color": "#ffc400"
+    },
+    {
+      "Category": "문화및집회시설",
+      "Area": 246.1,
+      "Parcels": 1,
+      "Ratio": 0.1,
+      "Color": "#8c9eff"
+    }
+  ],
+  "서울특별시 송파구 문정동": [
+    {
+      "Category": "단독주택",
+      "Area": 15972.2,
+      "Parcels": 419,
+      "Ratio": 6.2,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 15722.1,
+      "Parcels": 8,
+      "Ratio": 6.1,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 1442.1,
+      "Parcels": 10,
+      "Ratio": 0.6,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 32051.3,
+      "Parcels": 34,
+      "Ratio": 12.4,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "숙박시설",
+      "Area": 123.6,
+      "Parcels": 1,
+      "Ratio": 0.0,
+      "Color": "#f50057"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 137466.1,
+      "Parcels": 689,
+      "Ratio": 53.1,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 1440.7,
+      "Parcels": 11,
+      "Ratio": 0.6,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 22918.7,
+      "Parcels": 203,
+      "Ratio": 8.9,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 29998.8,
+      "Parcels": 237,
+      "Ratio": 11.6,
+      "Color": "#ffc400"
+    },
+    {
+      "Category": "문화및집회시설",
+      "Area": 1630.2,
+      "Parcels": 3,
+      "Ratio": 0.6,
+      "Color": "#8c9eff"
+    }
+  ],
+  "서울특별시 송파구 장지동": [
+    {
+      "Category": "단독주택",
+      "Area": 14.0,
+      "Parcels": 2,
+      "Ratio": 0.0,
+      "Color": "#fcf4a3"
+    },
+    {
+      "Category": "교육연구시설",
+      "Area": 25599.6,
+      "Parcels": 9,
+      "Ratio": 28.3,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 2467.5,
+      "Parcels": 3,
+      "Ratio": 2.7,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 516.4,
+      "Parcels": 1,
+      "Ratio": 0.6,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 44950.8,
+      "Parcels": 12,
+      "Ratio": 49.7,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "자동차관련시설",
+      "Area": 8651.5,
+      "Parcels": 10,
+      "Ratio": 9.6,
+      "Color": "#651fff"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 6055.8,
+      "Parcels": 16,
+      "Ratio": 6.7,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 2210.7,
+      "Parcels": 6,
+      "Ratio": 2.4,
+      "Color": "#ffc400"
+    }
+  ],
+  "서울특별시 송파구 신천동": [
+    {
+      "Category": "교육연구시설",
+      "Area": 15407.2,
+      "Parcels": 6,
+      "Ratio": 20.2,
+      "Color": "#00e5ff"
+    },
+    {
+      "Category": "노유자시설",
+      "Area": 674.2,
+      "Parcels": 1,
+      "Ratio": 0.9,
+      "Color": "#81d4fa"
+    },
+    {
+      "Category": "업무시설",
+      "Area": 29205.4,
+      "Parcels": 16,
+      "Ratio": 38.4,
+      "Color": "#2962ff"
+    },
+    {
+      "Category": "공동주택",
+      "Area": 25757.4,
+      "Parcels": 13,
+      "Ratio": 33.8,
+      "Color": "#ffb300"
+    },
+    {
+      "Category": "제1종근린생활시설",
+      "Area": 2919.9,
+      "Parcels": 7,
+      "Ratio": 3.8,
+      "Color": "#ffea00"
+    },
+    {
+      "Category": "제2종근린생활시설",
+      "Area": 2183.9,
+      "Parcels": 2,
+      "Ratio": 2.9,
+      "Color": "#ffc400"
+    }
+  ]
+}

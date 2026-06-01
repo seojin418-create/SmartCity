@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>송파구 데이터 뷰어 (Pro)</title>
+  
+  <link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <!-- Map Background -->
+  <div id="map"></div>
+
+  <!-- Left Panel: Map Controls & Legend -->
+  <aside class="panel left-panel">
+    <div class="panel-header">
+      <h2>송파구 데이터 뷰어</h2>
+      <p class="subtitle">건축물대장 표제부 연면적 가공</p>
+    </div>
+    
+    <div class="panel-section">
+      <h3>지도 옵션</h3>
+      <label class="control-label">
+        <input type="checkbox" id="chk-boundary" checked />
+        송파구 외곽 마스킹
+      </label>
+      <label class="control-label">
+        <input type="checkbox" id="chk-parcels" checked />
+        필지 렌더링 (약 15MB)
+      </label>
+      <div class="slider-container">
+        <span>투명도</span>
+        <input type="range" id="opacity-slider" min="0" max="100" value="80" />
+        <span id="opacity-val">80%</span>
+      </div>
+    </div>
+
+    <div class="panel-section flex-grow">
+      <h3>범례 (건축물 주용도)</h3>
+      <div class="legend-list" id="legend-container">
+        <!-- Legend items injected here -->
+      </div>
+    </div>
+  </aside>
+
+  <!-- Right Panel: Statistics & Dashboard -->
+  <aside class="panel right-panel">
+    <div class="panel-header" style="display:flex; justify-content:space-between; align-items:center;">
+      <h2 style="margin:0;">송파구 통계</h2>
+      <select id="dong-selector" class="dong-select" style="background:#1e293b; color:#fff; border:1px solid #334155; padding:4px 8px; border-radius:4px;">
+        <option value="전체">송파구 전체</option>
+      </select>
+    </div>
+    
+    <div class="tabs">
+      <button class="tab-btn active">주용도</button>
+      <button class="tab-btn">용도지역</button>
+      <button class="tab-btn">지목</button>
+    </div>
+    
+    <div class="panel-section center-chart">
+      <div class="chart-wrapper">
+        <canvas id="pie-chart"></canvas>
+      </div>
+    </div>
+    
+    <div class="stats-summary">
+      <span id="total-parcels">0 필지</span>
+      <span id="total-area">0 m² 연면적</span>
+    </div>
+
+    <div class="panel-section table-section">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>분류</th>
+            <th>필지</th>
+            <th>연면적(m²)</th>
+            <th>비율</th>
+          </tr>
+        </thead>
+        <tbody id="table-body">
+          <!-- Rows injected here -->
+        </tbody>
+      </table>
+    </div>
+  </aside>
+
+  <!-- Custom Tooltip for Map -->
+  <div id="map-tooltip" class="map-tooltip hidden"></div>
+
+  <!-- Scripts -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+  
+  <!-- Load Data directly via JS to avoid local CORS issues -->
+  <script src="data_boundary.js"></script>
+  <script src="data_parcels.js"></script>
+  
+  <script src="app.js"></script>
+</body>
+</html>
